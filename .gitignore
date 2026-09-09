@@ -1,0 +1,13 @@
+.jou
+cat > ~/set-associative-cache/.gitignore << 'EOF'
+.jou
+*.log
+*.jou
+*.str
+.Xil/
+*.cache/
+*.sim/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.gen/

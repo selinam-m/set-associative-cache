@@ -11,3 +11,8 @@ cat > ~/set-associative-cache/.gitignore << 'EOF'
 *.hw/
 *.ip_user_files/
 *.gen/
+
+# model build artifacts
+cachesim
+cachesim.exe
+*.o
